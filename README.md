@@ -1,1 +1,1 @@
-> Created to Automate personal portfolio site
+> Created to automate personal portfolio site
