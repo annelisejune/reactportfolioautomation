@@ -1,0 +1,27 @@
+{
+  "name": "reactportfolioautomation",
+  "version": "1.0.0",
+  "description": "Automating personal portfolio site",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annelisepre/reactportfolioautomation.git"
+  },
+  "keywords": [
+    "qa",
+    "automation",
+    "selenium"
+  ],
+  "author": "Annelise <ajunepre@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/annelisepre/reactportfolioautomation/issues"
+  },
+  "homepage": "https://github.com/annelisepre/reactportfolioautomation#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
